@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Shara! 
+# 👋 Hi there, I'm Shara! 
 
 Welcome to my GitHub! I'm currently diving deep into the world of **DevOps** and learning the tools that power modern software development. My goal is to master DevOps and share my journey along the way. 🌱
 
- # tec Stack 🛠️ 
+ # Tec Stack 🛠️ 
  
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
