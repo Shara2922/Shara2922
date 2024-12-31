@@ -10,7 +10,6 @@ Welcome to my GitHub! I'm currently diving deep into the world of **DevOps** and
 - **Scripting**: Bash, Python
 
 ## 🌐 Connect with Me:
-- 📚 [Medium]([https://medium.com/@r.shara2922/my-devops-learning-fd00476566f3]) - I write about DevOps learning classes
-- 📧 [Email](mailto:r.shara2922@gmail.com)
-
+- 📚 [Medium](https://medium.com/@r.shara2922/my-devops-learning-fd00476566f3)
+  
 Feel free to explore my repositories, contribute to projects, or simply connect. Let's collaborate and learn together! 😄
