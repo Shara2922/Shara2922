@@ -16,6 +16,6 @@ Welcome to my GitHub! I'm currently diving deep into the world of **DevOps** and
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shara2922&theme=dark&show_icons=true)
 
 ## 🌐 Getting in touch
- ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)  [Medium](https://medium.com/@r.shara2922/my-devops-learning-fd00476566f3)
+ ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)  [Medium](https://medium.com/@r.shara2922)
   
 Feel free to explore my repositories, contribute to projects, or simply connect. Let's collaborate and learn together! 😄
