@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Shara! 
 
-Welcome to my GitHub! I'm currently diving deep into the world of **DevOps** and learning the tools that power modern software development. My goal is to master DevOps and share my journey along the way. 🌱
+Welcome to my GitHub!
+
+I’m currently diving into the world of technology automation, system reliability, and digital security. My journey began with a deep interest in how modern applications are built, deployed, and scaled efficiently. As I explored further, I became fascinated by how we can protect these systems. My goal is to learn and share my journey along the way. 🌱
 
  # Tec Stack 🛠️ 
  
